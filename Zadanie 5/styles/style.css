@@ -90,7 +90,8 @@ body{
     height: 500px;
     color: white;
     margin-top: 70px;
-    font-size: 50px;
+    font-size: 40px;
+    line-height: 2;
     padding-right: 100px;
     background-color: #181818;
     
@@ -98,8 +99,8 @@ body{
 #happening{
     height: 500px;
     color: white;
-    
-    font-size: 50px;
+    line-height: 2;
+    font-size: 40px;
     padding-right: 100px;
     background-color: black;
     
@@ -107,8 +108,8 @@ body{
 #book{
     height: 500px;
     color: white;
-    
-    font-size: 50px;
+    line-height: 2;
+    font-size: 40px;
     padding-right: 100px;
     background-color: #181818;
     
@@ -116,8 +117,8 @@ body{
 #place{
     height: 500px;
     color: white;
-    
-    font-size: 50px;
+    line-height: 2;
+    font-size: 40px;
     padding-right: 100px;
     background-color: black;
     
