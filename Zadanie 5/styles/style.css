@@ -147,3 +147,6 @@ a{
 #place:hover{
     background-color: rgb(107, 107, 107);
 }
+html{
+    scroll-behavior: smooth;
+}
