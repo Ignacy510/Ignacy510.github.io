@@ -1,4 +1,3 @@
-
 #header{
     display: flex;
     justify-content: space-between;
@@ -78,20 +77,20 @@ body{
     background-color: rgb(102, 102, 102);
 }
 #wydarzenie:hover{
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(41, 41, 41);
 }
 #osoba:hover{
     background-color: rgb(102, 102, 102);
 }
 #miejsce:hover{
-    background-color: rgb(102, 102, 102);
+    background-color: rgb(41, 41, 41);
 }
 #person{
     height: 500px;
     color: white;
-    margin-top: 70px;
+    
     font-size: 40px;
-    line-height: 2;
+    
     padding-right: 100px;
     background-color: #181818;
     
@@ -99,7 +98,7 @@ body{
 #happening{
     height: 500px;
     color: white;
-    line-height: 2;
+    
     font-size: 40px;
     padding-right: 100px;
     background-color: black;
@@ -108,7 +107,7 @@ body{
 #book{
     height: 500px;
     color: white;
-    line-height: 2;
+    
     font-size: 40px;
     padding-right: 100px;
     background-color: #181818;
@@ -117,7 +116,7 @@ body{
 #place{
     height: 500px;
     color: white;
-    line-height: 2;
+    
     font-size: 40px;
     padding-right: 100px;
     background-color: black;
@@ -149,4 +148,27 @@ a{
 }
 html{
     scroll-behavior: smooth;
+}
+#p{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+#h{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
+#b{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+#pl{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    background-color: black;
 }
